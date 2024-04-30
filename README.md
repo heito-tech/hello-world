@@ -1,2 +1,2 @@
 # hello-world
-This is for practising GITHub flow
+Ich bin Thomas und schon sehr sehr alt ;-)
